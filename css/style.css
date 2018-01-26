@@ -5,16 +5,15 @@ header {
 
 .title01 {
   color: white;
-  padding-left: 200px;
+  padding-left: 400px;
   padding-top: 20px;
 }
 
 .title02 {
   color: #B22222;
-  padding-left: 376px;
+  padding-left: 530px;
   padding-top: 100px;
 }
-
 
 table {
   margin-left:auto;
@@ -36,7 +35,7 @@ th {
 
 th, td {
   border-bottom: 1px solid #D3D3D3;
-  padding: 15px;
+  padding: 20px;
   font-size: 18px;
 }
 
