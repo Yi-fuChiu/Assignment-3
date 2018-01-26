@@ -10,13 +10,40 @@ header {
 }
 
 .title02 {
-  color: red;
-  padding-left: 250px;
+  color: #B22222;
+  padding-left: 376px;
   padding-top: 100px;
 }
 
 
 table {
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left:auto;
+  margin-right:auto;
+  border-collapse: collapse;
+  box-shadow: 1px 15px 30px gainsboro;
+}
+
+.title03 {
+  width: 45%;
+}
+
+th {
+  background-color: #B22222;
+  color: white;
+  font-weight: lighter;
+
+}
+
+th, td {
+  border-bottom: 1px solid #D3D3D3;
+  padding: 15px;
+  font-size: 18px;
+}
+
+.content-left {
+  background-color: #DDDDDD;
+}
+
+.content-right {
+  text-align: right;
 }
