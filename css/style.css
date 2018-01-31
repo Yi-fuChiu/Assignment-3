@@ -5,12 +5,14 @@ header {
 }
 
 .title01 {
+  font-family: sans-serif;
   color: white;
   padding-left: 40px;
   padding-top: 20px;
 }
 
 .title02 {
+  font-family: sans-serif;
   color: #B22222;
   padding-left: 100px;
   padding-top: 20px;
@@ -26,6 +28,7 @@ table {
 
 .title03 {
   width: 80%;
+  font-family: sans-serif;
 }
 
 th {
